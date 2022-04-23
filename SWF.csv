@@ -1,0 +1,82 @@
+Name,Country,Type, AUM (bn) ,Region
+FSDEA,Angola,Commodity, $5.00 ,Africa
+FF,Australia,PRF, $147.70 ,Oceania
+WAFF,Australia,Commodity, $0.80 ,Oceania
+OBAG,Austria,RIC, $38.40 ,Europe
+SOFAZ,Azerbaijan,Commodity, $43.00 ,Asia
+BMHC,Bahrain,Commodity, $19.00 ,Asia
+FINPRO,Bolivia,RIC, $0.40 ,S. America
+PF,Botswana,Commodity, $4.00 ,Africa
+BIA,Brunei,Commodity, $71.60 ,Asia
+AHSTF,Canada,Commodity, $99.74 ,N. America
+ESSF,Chile,Commodity, $11.00 ,S. America
+PRF,Chile,Commodity, $11.00 ,S. America
+CIC,China,RIC," $1,222.30 ",Asia
+SAFE,China,RIC, $743.00 ,Asia
+CADF,China,RIC, $10.00 ,Asia
+FAEP,Colombia,Commodity, $12.00 ,S. America
+TLPF,Timor Leste,Commodity, $18.00 ,Asia
+FRGP,Equatorial Guinea,Commodity, $0.20 ,Africa
+CDC,France,PRF, $202.00 ,Europe
+BPI,France,RIC, $33.00 ,Europe
+FGIS,Gabon,Commodity, $1.00 ,Africa
+GPF,Ghana,Commodity, $0.90 ,Africa
+HKMA,Hong Kong,RIC, $585.73 ,Asia
+NIIF,India,RIC, $4.00 ,Asia
+INA,Indonesia,RIC, $5.30 ,Asia
+NDFI,Iran,Commodity, $24.00 ,Asia
+CDP Equity,Italy,RIC, $5.00 ,Europe
+NF,Kazakhstan,Commodity, $55.32 ,Asia
+SK,Kazakhstan,Commodity, $68.38 ,Asia
+RERF,Kiribati,Commodity, $0.40 ,Oceania
+KIA,Kuwait,Commodity, $737.94 ,Asia
+PIFSS,Kuwait,PRF, $133.70 ,Asia
+AWQAF,Kuwait,PRF, $1.99 ,Asia
+LIA,Libya,Commodity, $67.00 ,Africa
+KN,Malaysia,RIC, $30.40 ,Asia
+NFHR,Mauritania,Commodity, $0.10 ,Africa
+FMP,Mexico,Commodity, $7.00 ,N. America
+FHF,Mongolia,Commodity, $0.10 ,Asia
+NZSF,New Zealand,PRF, $27.00 ,Oceania
+BDIC,Nigeria,RIC, $0.10 ,Africa
+NSIA,Nigeria,Commodity, $2.60 ,Africa
+GPF-G,Norway,Commodity," $1,400.40 ",Europe
+GPF-N,Norway,Commodity, $22.00 ,Europe
+OIA,Oman,Commodity, $17.00 ,Asia
+FAP,Panama,RIC, $1.40 ,S. America
+PNGSWF,Papua New Guinea,Commodity, $22.00 ,Oceania
+FSF,Peru,RIC, $5.00 ,S. America
+QIA,Qatar,Commodity, $450.00 ,Asia
+ISIF,Ireland,PRF, $12.00 ,Europe
+NWF,Russia,Commodity, $182.59 ,Europe
+RDIF,Russia,RIC, $40.00 ,Europe
+AGDF,Rwanda,RIC, $0.20 ,Africa
+PIF,Saudi Arabia,Commodity, $580.00 ,Asia
+FONSIS,Senegal,RIC, $0.10 ,Africa
+GIC,Singapore,RIC, $578.00 ,Asia
+TH,Singapore,RIC, $484.40 ,Asia
+KIC,South Korea,RIC, $201.00 ,Asia
+PIF,Palestine,RIC, $0.10 ,Asia
+HSF,Trinidad & Tobago,Commodity, $6.00 ,N. America
+TWF,Turkey,RIC, $294.09 ,Asia
+TSF,Turkemenistan,Commodity, $0.50 ,Asia
+ADIA,UAE,Commodity, $697.86 ,Asia
+ICD,UAE,Commodity, $301.68 ,Asia
+MIC,UAE,Commodity, $243.00 ,Asia
+ADQ,UAE,RIC, $79.00 ,Asia
+RIA,UAE,Commodity, $2.00 ,Asia
+SAM,UAE,RIC, $2.00 ,Asia
+EIA,UAE,RIC, $78.00 ,Asia
+APFC,US,Commodity, $83.85 ,N. America
+UTIMCO,US,Commodity, $69.21 ,N. America
+NMSIC,US,Commodity, $26.00 ,N. America
+PWMTF,US,Commodity, $23.00 ,N. America
+NDLF,US,Commodity, $8.10 ,N. America
+ATF,US,Commodity, $3.00 ,N. America
+SIFTO,US,Commodity, $2.50 ,N. America
+IEFIB,US,Commodity, $2.00 ,N. America
+LEQTF,US,Commodity, $1.40 ,N. America
+CSF,US,Commodity, $2.00 ,N. America
+WVFF,US,Commodity, $19.00 ,N. America
+FMP,US,Commodity, $1.20 ,N. America
+SCIC,Vietnam,RIC, $1.20 ,Asia
